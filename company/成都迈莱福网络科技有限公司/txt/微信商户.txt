@@ -1,0 +1,4 @@
+迈莱福微信商户号 : 1519149341
+迈莱福微信商户支付32位秘钥 : e2bbee622b8ccbbf256ed1876e3b3788
+迈莱福微信商户操作密码 : Jerry339#
+迈莱福微信商户JS支付授权链接 : http://wx.xiaoqusd.com/wap/pay/js/ , http://wx.xiaoqusd.com/wap/pay/
