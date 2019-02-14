@@ -1,0 +1,18 @@
+阿里云:
+账号:乐居邦
+密码:Nnvsuu339#
+
+
+
+开发版-云服务器:
+47.92.146.204
+root
+Nnvsuu339#
+nginx + apache + php
+
+开发版-阿里云数据库(mariadb10.3):
+数据库地址:rm-wz9i0i6p64r9j2tkzuo.mariadb.rds.aliyuncs.com
+高级账号:nnvsuu
+密码:Nnvsuu339#
+普通账号:lejubang
+密码:26c2a73e8b88629d1ade24e974b735c5
